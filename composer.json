@@ -1,0 +1,23 @@
+{
+    "name": "ibra/tv",
+    "description": "youtube horror",
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "config" :
+    {
+        "bin-dir": "bin/"
+    },
+    "authors": [
+        {
+            "name": "Ibra",
+            "email": "ibra@youtube.com"
+        }
+    ],
+    "require": {}
+}
